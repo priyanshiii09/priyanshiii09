@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Priyanshi Bhadauria
+# 👋 Hello ! I'm Priyanshi Bhadauria
 
 ## 💼 Aspiring Full-Stack Developer | Computer Engineering Student
 
