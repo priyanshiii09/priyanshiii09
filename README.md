@@ -53,4 +53,4 @@ I'm a passionate Computer and Communication Engineering student with a focus on 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-bhadauria)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanshibhadauria2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/priyanshiii09)
-[![Phone](https://img.shields.io/badge/-9560407551-0078FF?style=flat-square&logo
+
