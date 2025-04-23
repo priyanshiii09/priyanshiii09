@@ -72,42 +72,25 @@
 ## 🛠️ Core Competencies
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🌐 Web Development</h3>
-        <div align="center">
-          <img src="https://progress-bar.dev/85/?title=React&width=200&color=61DAFB">
-          <img src="https://progress-bar.dev/90/?title=HTML5/CSS3&width=200&color=E34F26">
-          <img src="https://progress-bar.dev/75/?title=JavaScript&width=200&color=F7DF1E">
-        </div>
-      </td>
-      <td>
-        <h3>🧠 Programming</h3>
-        <div align="center">
-          <img src="https://progress-bar.dev/80/?title=OOP&width=200&color=3776AB">
-          <img src="https://progress-bar.dev/85/?title=DSA&width=200&color=FF6F00">
-          <img src="https://progress-bar.dev/70/?title=Problem%20Solving&width=200&color=38B2AC">
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>💾 Database</h3>
-        <div align="center">
-          <img src="https://progress-bar.dev/75/?title=SQL&width=200&color=4479A1">
-          <img src="https://progress-bar.dev/70/?title=DB%20Design&width=200&color=336791">
-        </div>
-      </td>
-      <td>
-        <h3>🔧 Tools & Methods</h3>
-        <div align="center">
-          <img src="https://progress-bar.dev/80/?title=Git%20Workflow&width=200&color=F05032">
-          <img src="https://progress-bar.dev/65/?title=UI/UX%20Design&width=200&color=7952B3">
-        </div>
-      </td>
-    </tr>
-  </table>
+
+### Web Development
+![React](https://img.shields.io/badge/React-★★★★☆-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-★★★★★-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Programming Paradigms
+![OOP](https://img.shields.io/badge/OOP-★★★★☆-3776AB?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-★★★★☆-FF6F00?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-★★★★☆-38B2AC?style=for-the-badge)
+
+### Database Management
+![SQL](https://img.shields.io/badge/SQL-★★★★☆-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DB Design](https://img.shields.io/badge/DB%20Design-★★★☆☆-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Workflows
+![Git Workflow](https://img.shields.io/badge/Git%20Workflow-★★★★☆-F05032?style=for-the-badge&logo=git&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-★★★☆☆-7952B3?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
 <div align="center">
