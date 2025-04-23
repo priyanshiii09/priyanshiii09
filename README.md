@@ -71,16 +71,48 @@
 
 ## 🛠️ Core Competencies
 
-```
-├── Web Development
-│   ├── Frontend (React, HTML5, CSS3, JavaScript)
-│   └── Responsive Design (Bootstrap, Tailwind CSS)
-├── Programming
-│   ├── Object-Oriented Programming
-│   └── Data Structures and Algorithms
-└── Database Management
-    └── SQL (MySQL, PostgreSQL, Oracle)
-```
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>🌐 Web Development</h3>
+        <div align="center">
+          <img src="https://progress-bar.dev/85/?title=React&width=200&color=61DAFB">
+          <img src="https://progress-bar.dev/90/?title=HTML5/CSS3&width=200&color=E34F26">
+          <img src="https://progress-bar.dev/75/?title=JavaScript&width=200&color=F7DF1E">
+        </div>
+      </td>
+      <td>
+        <h3>🧠 Programming</h3>
+        <div align="center">
+          <img src="https://progress-bar.dev/80/?title=OOP&width=200&color=3776AB">
+          <img src="https://progress-bar.dev/85/?title=DSA&width=200&color=FF6F00">
+          <img src="https://progress-bar.dev/70/?title=Problem%20Solving&width=200&color=38B2AC">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>💾 Database</h3>
+        <div align="center">
+          <img src="https://progress-bar.dev/75/?title=SQL&width=200&color=4479A1">
+          <img src="https://progress-bar.dev/70/?title=DB%20Design&width=200&color=336791">
+        </div>
+      </td>
+      <td>
+        <h3>🔧 Tools & Methods</h3>
+        <div align="center">
+          <img src="https://progress-bar.dev/80/?title=Git%20Workflow&width=200&color=F05032">
+          <img src="https://progress-bar.dev/65/?title=UI/UX%20Design&width=200&color=7952B3">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiii09&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
+</div>
 
 ## 📈 Activity
 
